@@ -1,22 +1,5 @@
 import React, { useState } from 'react';
-import {
-  Panel,
-  PanelHeader,
-  Group,
-  Cell,
-  Avatar,
-  Div,
-  Tabbar,
-  TabbarItem,
-  Button,
-  Tabs,
-  TabsItem,
-  Search,
-  Card,
-  ModalCard,
-  ModalRoot,
-  View,
-} from '@vkontakte/vkui';
+import {Panel,PanelHeader,Group,Cell,Avatar,Div,Tabbar,TabbarItem,Button,Tabs,TabsItem,Search,Card,ModalCard,ModalRoot,View,} from '@vkontakte/vkui';
 import {
   Icon28HomeOutline,
   Icon28UserCircleOutline,
